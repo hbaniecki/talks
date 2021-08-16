@@ -4,8 +4,8 @@ my talks, posters, and workshops
 
 ### 2021
 
-- 07/07 **useR!** *Introduction to Responsible Machine Learning* [[materials]](https://github.com/MI2DataLab/ResponsibleML-UseR2021) [video]
-- 05/07 **useR!** *Open the Machine Learning Black-Box with modelStudio & Arena* [[slides]](https://github.com/hbaniecki/talks/blob/main/2021/user_modelstudio.pdf) [video] [[demo]](https://github.com/hbaniecki/user-21)
+- 07/07 **useR!** *Introduction to Responsible Machine Learning* [[workshop materials]](https://github.com/MI2DataLab/ResponsibleML-UseR2021) [[video]](https://www.youtube.com/watch?v=VaWmTDF3nQc)
+- 05/07 **useR!** *Open the Machine Learning Black-Box with modelStudio & Arena* [[slides]](https://github.com/hbaniecki/talks/blob/main/2021/user_modelstudio.pdf) [[video]](https://www.youtube.com/watch?v=tiR9ClOEaqM) [[demo]](https://github.com/hbaniecki/user-21)
 - 06/02 **AAAI** *Responsible Prediction Making of COVID-19 Mortality* [[poster]](https://github.com/hbaniecki/talks/blob/main/2021/aaai_responsible.pdf) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17874) [[demo]](https://rai-covid.drwhy.ai)
 
 ### 2020
