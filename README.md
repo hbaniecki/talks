@@ -6,8 +6,8 @@ my talks, posters, and workshops
   <colgroup>
     <col style="width:11%">
     <col style="width:18%">
-    <col style="width:53%">
-    <col style="width:18%">
+    <col style="width:52%">
+    <col style="width:19%">
   </colgroup>
   <thead>
     <tr>
@@ -29,7 +29,7 @@ my talks, posters, and workshops
       <td><i>useR!</i></td>
       <td>Introduction to Responsible Machine Learning</td>
       <td>
-        <a href="https://github.com/MI2DataLab/ResponsibleML-UseR202">[workshop materials]</a>
+        <a href="https://github.com/MI2DataLab/ResponsibleML-UseR2021">[workshop materials]</a>
         <a href="https://www.youtube.com/watch?v=VaWmTDF3nQc">[video]</a>
       </td>
     </tr>
