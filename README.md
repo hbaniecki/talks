@@ -19,7 +19,7 @@ my talks, posters, and workshops
   </thead>
   <tbody>
     <tr>
-      <th scope="row">2021-10-</th>
+      <th scope="row">2021-11-</th>
       <td><i>ML in PL</i></td>
       <td>Manipulating explainability and fairness in machine learning</td>
       <td>TBA</td>
